@@ -158,10 +158,6 @@ body {
   justify-content: center;
 }
 
-.head_logo {
-
-}
-
 .herosection-1 h1 {
   font-size: 4.5rem;
 }
@@ -595,12 +591,6 @@ body {
 
 .copyright span{
   font-weight: 700;
-}
-
-@media screen and (max-width: 1228px) {
-  /* .herosection-1 h1{
-    line-height: 120px;
-  } */
 }
 
 @media screen and (max-width: 1000px) {
